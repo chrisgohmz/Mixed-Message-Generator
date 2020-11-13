@@ -10,19 +10,18 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Prints a new random message to the console everytime the program is run. The message has a fixed template with 3 different values that are selected randomly from 3 different pre-defined arrays.
 
 ## Technologies
 * Javascript
 
 ## Setup
-Install Node.js on your computer
-Navigate to the directory containing the file and run it using node script.js
+* Install Node.js on your computer
+* Navigate to the directory containing the file and run it using node script.js
 
 ## Code Examples
-Show examples of usage:
-node script.js
-The quote for today is: I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - Jimmy Dean. You will have Beef Lasagne for dinner. For today's activity, you will go out for cycling.
+* node script.js
+* The quote for today is: I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - Jimmy Dean. You will have Beef Lasagne for dinner. For today's activity, you will go out for cycling.
 
 ## Status
 Finished
